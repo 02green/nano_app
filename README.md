@@ -2,7 +2,7 @@
 
 This is a minimal React Native app screen that reuses the same printing module as your CheckBalanceDetails screen (`react-native-print`). It prints a receipt with the heading "TECHSOFT limited" and these lines:
 
-- hello, my name if female programmer
+- hello, my name is female programmer
 - what would you like me to do today
 - am happy that your here today
 
